@@ -1,23 +1,6 @@
-### avue1.2.1发布
-欢迎加入QQ交流群，互相学习   
-前端avue交流群：606410437  
-后台微服务群：23754102   
-服务端解决方案：[https://gitee.com/log4j/pig](https://gitee.com/log4j/pig)
+### 说明
 
-#### 技术文档
-- [avue技术文档](https://www.kancloud.cn/smallwei/avue/)
-
-#### 源码地址
-- [码云地址:https://gitee.com/smallweigit/avue](https://gitee.com/smallweigit/avue)
-- [github地址：https://github.com/nmxiaowei/avue](https://github.com/nmxiaowei/avue)
-
-#### 更新日志
-- [更新日志](./UPDATE.md)
-
-#### 在线demo
-- [crud和form组件(html-demo)](http://sandbox.runjs.cn/show/xjjyj1cj)
-- [演示地址1:http://avue.2bugs.cn](http://avue.2bugs.cn)
-- [演示地址2:http://122.4.247.156:7777](http://122.4.247.156:7777)——jenkins+docker+git钩子自动部署
+只做毕设!!!个人使用. ^_^
 
 #### 使用方式
 1.html引入
@@ -55,61 +38,6 @@ import Avue form 'avue-cli/packages/index.js';
 `14.crud组件快速生成器`<br /><br />
 
 #### 页面展示
-**主题色**
-<p align="center">
-  <img width="900" src="https://gitee.com/smallweigit/avue/raw/master/static/cdn/images/avue-theme.png">
-</p>
-
-**登录**
-<p align="center">
-  <img width="900" src="https://gitee.com/smallweigit/avue/raw/master/static/cdn/images/avue-login.png">
-</p>
-
-**权限测试页面**
-<p align="center">
-  <img width="900" src="https://gitee.com/smallweigit/avue/raw/master/static/cdn/images/avue-roles-test.png">
-</p>
-
-**数据展示**
-<p align="center">
-  <img width="900" src="https://gitee.com/smallweigit/avue/raw/master/static/cdn/images/avue-datashow.png">
-</p>
-
-**错误页面**
-<p align="center">
-  <img width="900" src="https://gitee.com/smallweigit/avue/raw/master/static/cdn/images/avue-errpage.png">
-</p>
-
-**错误日志记录**
-<p align="center">
-  <img width="900" src="https://gitee.com/smallweigit/avue/raw/master/static/cdn/images/avue-errlog.png">
-</p>
-
-**CRUD**
-<p align="center">
-  <img width="900" src="https://gitee.com/smallweigit/avue/raw/master/static/cdn/images/avue-crud.png">
-  <img width="900" src="https://gitee.com/smallweigit/avue/raw/master/static/cdn/images/avue-grade.png">
-</p>
-
-**FORM**
-<p align="center">
-  <img width="900" src="https://gitee.com/smallweigit/avue/raw/master/static/cdn/images/avue-form.png">
-</p>
-
-**用户管理**
-<p align="center">
-  <img width="900" src="https://gitee.com/smallweigit/avue/raw/master/static/cdn/images/avue-user.png">
-</p>
-
-**角色管理**
-<p align="center">
-  <img width="900" src="https://gitee.com/smallweigit/avue/raw/master/static/cdn/images/avue-role.png">
-</p>
-
-**菜单设置**
-<p align="center">
-  <img width="900" src="https://gitee.com/smallweigit/avue/raw/master/static/cdn/images/avue-menu.png">
-</p>
 
 **阿里巴巴图标库(在线调用)**
 <p align="center">
@@ -119,16 +47,6 @@ import Avue form 'avue-cli/packages/index.js';
 **登录页面SSR渲染**
 <p align="center">
   <img width="900" src="https://gitee.com/smallweigit/avue/raw/master/static/cdn/images/login-ssr.png">
-</p>
-
-**主页**
-<p align="center">
-  <img width="900" src="https://gitee.com/smallweigit/avue/raw/master/static/cdn/images/avue-index.png">
-</p>
-
-**第三方网站**
-<p align="center">
-  <img width="900" src="https://gitee.com/smallweigit/avue/raw/master/static/cdn/images/avue-iframe.png">
 </p>
 
 #### 功能结构
